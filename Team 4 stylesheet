@@ -1,0 +1,23 @@
+
+<style> 
+body {
+  font-family: "comic-sans MS", cursive, sans-serif;
+  background-color: #f0f0f0;
+  margin: 1px;
+  padding: 1px;
+  font-size: 12px;
+  }
+  
+  a:hover {
+  opacity: 0.8;
+  }
+
+img{
+height:200px;
+}
+
+:root{
+rgb(1,45,91)
+}
+
+  
