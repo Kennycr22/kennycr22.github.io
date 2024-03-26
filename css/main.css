@@ -32,9 +32,3 @@ a:hover {
     text-align: center;
 }
 
-/* Responsive styles */
-@media (max-width: 768px) {
-    .container {
-        width: 100%;
-    }
-}
