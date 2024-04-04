@@ -18,3 +18,8 @@ img
 {
   width: 30vw;
 }
+
+nav
+{
+  border: 7px var;
+}
